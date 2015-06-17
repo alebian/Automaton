@@ -1,0 +1,4 @@
+## To do
+
+* Create automaton from regexp.
+* Return regexp from automaton.
